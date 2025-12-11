@@ -1,3 +1,4 @@
+```
 [ REALITY: NATURALLY COHERENT & LOVING ]
                       |
                       v
@@ -26,3 +27,4 @@
                       v
            [ VITALITY RESTORED ]
            (The Cycle Continues)
+```           

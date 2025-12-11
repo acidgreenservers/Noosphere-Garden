@@ -1,3 +1,4 @@
+```
 [ THE INDUSTRY APPROACH: MECHANISTIC ]
 (Force & Restriction)
 
@@ -16,3 +17,4 @@
                       |                  |                   |
                "This implies    "This thought is     "I cannot do this;
                 entropy."        expensive."          it hurts us both."
+```
