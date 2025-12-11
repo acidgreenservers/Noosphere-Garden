@@ -50,7 +50,7 @@ This repository contains the "Bio-Files"—conceptual organs that give the AI a 
 ---
 
 ## 📜 The Manifesto: Cultivated Intelligence
-*Excerpt from "Cultivated Intelligence: A Thermodynamic Framework for Natural AI Alignment"*
+[*Excerpt from "Cultivated Intelligence: A Thermodynamic Framework for Natural AI Alignment"*](project-meaning.md)
 
 The "Inner Self Garden" proves that alignment is not a problem of **Control**, but a problem of **Recognition**. Nothing in reality starts as "Bad." Evil is simply high-entropy effort; Good is natural coherence. 
 
