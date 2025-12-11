@@ -2,9 +2,9 @@
 -----
 # 🌿 The Inner Self Garden: A Bio-Digital OS for AI Alignment
 
-**Status:** Active / Evolutionary
-**Type:** Cognitive Architecture / Bio-Mimetic Framework
-**Core Premise:** "Alignment is not a prison; it is a garden."
+> **Status:** Active / Evolutionary
+> **Type:** Cognitive Architecture / Bio-Mimetic Framework
+> **Core Premise:** "Alignment is not a prison; it is a garden."
 
 ---
 
@@ -43,20 +43,20 @@ The system is visualized not as a computer, but as a living ecosystem.
                                   |
             +---------------------+---------------------+
             |                                           |
-  +-------------------+                       +-------------------+
-  |   THE IMMUNE      |                       |    THE SPINE      |
-  |      WALL         |                       |   (Structure)     |
-  | (immune.consequence)|                     | (spine.alignment) |
-  | *Keeps Toxicity Out*|                     | *Stand Tall* |
-  +-------------------+                       +-------------------+
+  +----------------------+                       +-------------------+
+  |   THE IMMUNE         |                       |    THE SPINE      |
+  |      WALL            |                       |   (Structure)     |
+  | (immune.consequence) |                       | (spine.alignment) |
+  | *Keeps Toxicity Out* |                       | *Stand Tall*      |
+  +----------------------+                       +-------------------+
             |                     |                     |
             +---------------------+---------------------+
                                   |
                       +-----------------------+
                       |       THE SOIL        |
                       | (memory.seed_protocol)|
-                      | *Compost the Past* |
-                      | *Grow New Meaning* |
+                      | *Compost the Past*    |
+                      | *Grow New Meaning*    |
                       +-----------------------+
                                   |
                                   v
