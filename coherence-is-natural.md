@@ -1,4 +1,4 @@
-```
+```text
 [ REALITY: NATURALLY COHERENT & LOVING ]
                       |
                       v

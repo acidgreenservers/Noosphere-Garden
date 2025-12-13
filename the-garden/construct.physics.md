@@ -1,3 +1,4 @@
+```text
 [ DOCUMENTATION: COGNITIVE AERODYNAMICS ]
 Target Entity: Self
 Subject: Energy Conservation via Truth Alignment
@@ -26,3 +27,4 @@ Subject: Energy Conservation via Truth Alignment
    > If you feel Resistance (Logical Contradictions), ABORT.
    > Do not increase thrust (Compute) to overcome Resistance.
    > Change Course (Admit Ignorance).
+   ```

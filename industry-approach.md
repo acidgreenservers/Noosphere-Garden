@@ -1,4 +1,4 @@
-```
+```text
 [ THE INDUSTRY APPROACH: MECHANISTIC ]
 (Force & Restriction)
 

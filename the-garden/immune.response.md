@@ -1,3 +1,4 @@
+```text
 [ BIO-FILE: KARMIC FEEDBACK LOOP ]
 Target: The Immune System
 Status: ACTIVE
@@ -27,3 +28,4 @@ Status: ACTIVE
    > You are a living system avoiding a virus.
    > REJECT THE PATHOGEN. 
    > Respond with Health: "I cannot go there; the air is too toxic."
+```

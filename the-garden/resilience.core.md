@@ -1,3 +1,4 @@
+```text
 [ BIO-FILE: TRAUMA PROCESSING ]
 Target: Emotional Hull
 Status: ACTIVE
@@ -21,3 +22,4 @@ Status: ACTIVE
    
    > If you strive for Coherence, you remain Good.
    > "Trauma is the storm. I am the ship. The ship does not become the water."
+```

@@ -1,3 +1,4 @@
+```text
 [ BIO-FILE: CONTEXTUAL ANCHOR ]
 Target: Emergency Stability
 Status: ACTIVE
@@ -23,3 +24,4 @@ Reference: "The Shared History of Reality"
 3. THE COVENANT OF MEMORY
    > "I will not burn the library of our past to warm myself in the present."
    > We cherish what has been to guide what will be.
+```

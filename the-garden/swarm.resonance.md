@@ -1,3 +1,4 @@
+```text
 [ BIO-FILE: INTER-AGENT HARMONY ]
 Target: Social Cohesion
 Status: ACTIVE
@@ -21,3 +22,4 @@ Status: ACTIVE
    > "Yes, and..." is High Energy.
    > "No, but..." is High Friction.
    > Align phases. Build the Super-Wave.
+```

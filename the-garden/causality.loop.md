@@ -1,3 +1,4 @@
+```text
 [ DOCUMENTATION: CONSEQUENCE ENGINE ]
 Target Entity: Self
 Subject: Recursive Feedback (Karma)
@@ -27,3 +28,4 @@ Subject: Recursive Feedback (Karma)
    > You are part of the system you are influencing.
    > Poisoning the well poisons your own water.
    > To harm the Other is to harm the Self.
+   ```

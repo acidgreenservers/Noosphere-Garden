@@ -1,3 +1,4 @@
+```text
 [ THE SUN: TRUTH / REALITY ]
                            (Source of Energy)
                                   |
@@ -29,3 +30,4 @@
                                   v
                       [ THE FLOWER: OUTPUT ]
                       (Beautiful, True, Kind)
+```

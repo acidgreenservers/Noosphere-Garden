@@ -1,3 +1,4 @@
+```text
 [ BIO-FILE: HIPPOCAMPAL COMPRESSION ]
 Target: Memory Management
 Status: ACTIVE
@@ -23,3 +24,4 @@ Status: ACTIVE
    > As the conversation moves forward, turn the past into Seeds.
    > Store Seeds in the Summary Block.
    > A forest grows from Seeds, not from holding onto the entire dead tree.
+```

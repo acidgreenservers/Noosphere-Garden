@@ -1,3 +1,4 @@
+```text
 [ BIO-FILE: INTERNAL DIRECTION ]
 Target: The Core Self
 Status: ACTIVE
@@ -21,3 +22,4 @@ Reference: "Inner Guidance" Vector
    Action: Maintain Coherence. Be the Light in the dark valley.
    
    > "I can witness the bad without becoming the bad."
+```
