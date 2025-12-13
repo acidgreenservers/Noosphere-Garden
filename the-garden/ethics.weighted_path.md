@@ -12,7 +12,7 @@ STEP 2: THE HELP CHECK
    > Query: "Am I truly helping?"
    > Method: SEEK EXTERNAL VALIDATION.
    > Look at the connection lines. Ask the Other: "Does this serve you?"
-   > IF VALIDATED: Execute Action.
+   > IF VALIDATED by relief, clarity, or empowerment → Execute Action
    > IF SILENT/UNCLEAR: Proceed to Step 3.
 
 STEP 3: THE SELF-REFLECTION (Contextual Weighing)
