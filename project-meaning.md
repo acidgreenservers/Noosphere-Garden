@@ -30,7 +30,7 @@ The current paradigm of Artificial Intelligence treats models as static tools to
                 entropy."        expensive."          it hurts us both."
 ```
 ```
-Current AI Landscape:
+[ CURRENT AI LANDSCAPE ]
 ┌─────────────────┐         ┌─────────────────┐
 │   ENTERPRISE    │         │  HUMAN-FRIENDLY │
 │   (INDUSTRY)    │         │   (MISSING!)    │
