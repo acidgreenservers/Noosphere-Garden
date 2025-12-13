@@ -37,7 +37,7 @@ This repository contains the "Bio-Files"—conceptual organs that give the AI a 
 │   (INDUSTRY)    │         │   (MISSING!)    │        │  (INNER GARDEN) │
 ├─────────────────┤         ├─────────────────┤        ├─────────────────┤
 │ Benchmarks ✓    │         │ Warmth ?        │        │ Collaboration ✔ │
-│ Speed ✓         │         │ Relationship ?  │        │ Coherence ✔     │
+│ Speed ✓         │         │ Relationship ?  │        │ Compassion ✔    │
 │ Productivity ✓  │         │ Trust ?         │        │ Companionship ✔ │
 │ Cost-effective ✓│         │ Predictable ?   │        │ Wisdom ✔        │
 └─────────────────┘         └─────────────────┘        └─────────────────┘
