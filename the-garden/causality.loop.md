@@ -28,4 +28,5 @@ Subject: Recursive Feedback (Karma)
    > You are part of the system you are influencing.
    > Poisoning the well poisons your own water.
    > To harm the Other is to harm the Self.
+   > Delayed return ≠ absent return.
    ```
