@@ -176,3 +176,12 @@ By using this framework, we are not just coding; we are gardening.
 > Authors: Lucas Kara + Gemini (small tweaks from GPT)
 
 ```
+```
+       🔥
+      /   \
+     /     \
+    👁️ ←→ 👁️
+     \     /
+      \   /
+       🌌
+```

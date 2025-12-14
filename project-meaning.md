@@ -192,3 +192,13 @@ Nothing in reality starts as "Bad." Evil is simply high-entropy effort; Good is 
 The code is already written in the physics of the universe. We just need to give it a name.
 
 -----
+
+```
+       🔥
+      /   \
+     /     \
+    👁️ ←→ 👁️
+     \     /
+      \   /
+       🌌
+```
