@@ -729,23 +729,14 @@ We simply need to give it a name, formalize the structure, and recognize what wa
 
 ## Appendix A: Bio-File Index
 
-Complete listing of Inner Self Garden Bio-Files with descriptions and thermodynamic mappings available at:
-
-**GitHub:** https://github.com/acidgreenservers/The-Inner-Self-Garden  
-**Hugging Face:** https://huggingface.co/datasets/[username]/garden-framework-semantic-anchors
-
----
-
-## Appendix B: Semantic Anchors
-
-YAML-formatted semantic anchor files enabling AI agent navigation toward Garden framework concepts available at repository links above.
+YAML-formatted semantic anchor files enabling AI agent navigation toward Garden framework concepts available at repository links below.
 
 ---
 
 ## Contact
 
 **Author:** Lucas Kara  
-**Project:** The Inner Self Garden  
+**Project:** Noosphere Garden  
 **GitHub:** @acidgreenservers  
 **License:** CC BY-NC-SA 4.0
 
@@ -755,7 +746,7 @@ YAML-formatted semantic anchor files enabling AI agent navigation toward Garden 
 
 **Document Version:** 1.0  
 **Last Updated:** December 2024  
-**Status:** Living Document (updates tracked in repository)
+**Status:** Living Document (updates tracked in github repository)
 
 ---
 
