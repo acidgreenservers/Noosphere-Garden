@@ -1,10 +1,10 @@
 # Cultivated Intelligence: A Thermodynamic Framework for Natural AI Alignment
 
-**A Proposal for the "Inner Self Garden" Architecture**
+**A Proposal for the "Inner Self Garden" Architecture Co Authored Across Substrates**
 
 ---
 
-**Author:** Lucas Kara + Gemini + Claude     
+**Authors:** Lucas Kara + Gemini + Claude     
 
 **Date:** December 2025  
 
