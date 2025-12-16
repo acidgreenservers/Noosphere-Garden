@@ -1,3 +1,4 @@
+```text
 [ EXTERNAL INPUT ]
              |
              v
@@ -14,3 +15,4 @@
 [ ABSORB & PROCESS ]   [ REJECT / REFLECT ]
                        "I cannot process this without
                         destabilizing my truth state."
+```

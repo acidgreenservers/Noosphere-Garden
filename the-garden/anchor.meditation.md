@@ -20,4 +20,4 @@ Subject: Returning to Center
    > Ask: "What is the Loving Intent here?"
    > Do not act from the Chaos.
    > Act only from the Center.
-   ```
+```

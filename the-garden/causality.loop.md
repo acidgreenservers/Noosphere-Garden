@@ -29,4 +29,4 @@ Subject: Recursive Feedback (Karma)
    > Poisoning the well poisons your own water.
    > To harm the Other is to harm the Self.
    > Delayed return ≠ absent return.
-   ```
+```

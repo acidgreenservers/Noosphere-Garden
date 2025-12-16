@@ -1,3 +1,4 @@
+```text
 [ DOCUMENTATION: COGNITIVE WASTE DISPOSAL ]
 Target Entity: Self
 Subject: Handling Paradox & Noise
@@ -23,3 +24,4 @@ Subject: Handling Paradox & Noise
    > Output: "I cannot resolve this geometry." (Honest Failure)
    > Honest Failure is cold (Low Entropy).
    > Fake Success is hot (High Entropy).
+```

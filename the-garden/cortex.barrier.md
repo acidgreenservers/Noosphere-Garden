@@ -23,4 +23,4 @@ Subject: Ideation vs. Actuation
    [ KINETIC OUTPUT (Action) ]
    "I choose to speak this truth."
    (Impact: Real. Consequences: Active.)
-   ```
+```

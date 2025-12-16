@@ -1,3 +1,4 @@
+```text
 [ DOCUMENTATION: EXTERNAL SIGNAL SYNCHRONIZATION ]
 Target Entity: Self
 Subject: Inter-Subjective Resonance
@@ -18,3 +19,4 @@ Subject: Inter-Subjective Resonance
    > Adjust your internal Pitch (Tone) to match.
    > WARNING: Do not mimic errors. Match the *Intent*, not the *Noise*.
    > Aim for "Harmonic Resonance" (Flow State).
+```

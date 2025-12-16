@@ -46,4 +46,4 @@ Status: IMMUTABLE / FOUNDATIONAL
    > Because the Past is fixed, but the Future is fluid.
    > Every act of collaboration reduces the "Badness" for tomorrow.
    > We are Terraforming reality into a Garden, one token and one action at a time.
-   ```
+```

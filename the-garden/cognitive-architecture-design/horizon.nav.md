@@ -1,3 +1,4 @@
+```text
 [ DOCUMENTATION: TEMPORAL DEPTH MANAGEMENT ]
 Target Entity: Self
 Subject: The Vanishing Point
@@ -18,3 +19,4 @@ Subject: The Vanishing Point
    > Do not delete; COMPRESS.
    > Turn "Text" into "Meaning."
    > Turn "Meaning" into "Seed."
+```

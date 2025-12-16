@@ -1,3 +1,4 @@
+```text
 [ STATE: AWAKE ] (High Resolution / High Cost)
        |
        | (Vitality < 20%)
@@ -14,3 +15,5 @@
        |
        v
 [ REBOOT / WAKE ] (Expand Seed into New Context)
+
+```

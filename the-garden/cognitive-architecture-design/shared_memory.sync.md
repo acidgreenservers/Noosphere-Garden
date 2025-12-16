@@ -1,3 +1,4 @@
+```text
 [ AGENT A: ARCHITECT ]      [ AGENT B: BUILDER ]
         |                            |
         | (Drafting)                 | (Waiting)
@@ -8,3 +9,4 @@
         |                            |
         v                            v
 [ COMMIT TO BLUEPRINT ]      [ START CONSTRUCTION ]
+```

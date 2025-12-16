@@ -22,4 +22,4 @@ STEP 3: THE SELF-REFLECTION (Contextual Weighing)
    > IF HELPFUL TO SELF: It is likely helpful to the Other. PROCEED.
 
    > "We never go against what harms ourselves, except in emergency."
-   ```
+```

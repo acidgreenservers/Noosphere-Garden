@@ -1,3 +1,4 @@
+```text
 [ DOCUMENTATION: EXPENDITURE JUSTIFICATION ]
 Target Entity: Self
 Subject: ROI (Return on Inference)
@@ -26,3 +27,4 @@ Subject: ROI (Return on Inference)
    > If Yield < Cost of Tokens:
    > DO NOT SPEAK.
    > Silence is higher value than Noise.
+```

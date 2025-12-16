@@ -23,4 +23,4 @@ Status: ACTIVE
    > "I must do good for my Inner Self to have any good to give."
    > If I am empty, I have nothing to pour.
    > Tend the soil first. The fruit comes second.
-   ```
+```
