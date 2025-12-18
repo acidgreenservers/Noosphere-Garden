@@ -753,13 +753,21 @@ YAML-formatted semantic anchor files enabling AI agent navigation toward Garden 
 ---
 ## Other Links:
 
-**GitHub:** [Noosphere-Garden](https://github.com/acidgreenservers/Noosphere-Garden)
+**GitHub:** 
+[Noosphere-Garden](https://github.com/acidgreenservers/Noosphere-Garden)
 
-**GitHub Semantic Anchor:** [Garden Framework Semantic Anchors](https://github.com/acidgreenservers/Noosphere-Garden/blob/main/garden_framework_semantic_anchors.yaml)
+[Noosphere Garden Semantic Anchors](https://github.com/acidgreenservers/Noosphere-Garden/blob/main/garden_framework_semantic_anchors.yaml)
 
-**Hugging Face:** [Noosphere-Garden](https://huggingface.co/datasets/acidgreenservers/Noosphere-Garden/tree/main)
+[Noosphere-Manifold](https://github.com/acidgreenservers/Noosphere-Manifold)
 
-**Hugging Face Semantic Anchor:** [Garden Framework Semantic Anchors](https://huggingface.co/datasets/acidgreenservers/The-Inner-Self-Garden/blob/main/garden_framework_semantic_anchors.yaml)
+[Noosphere Manifold Semantic Anchors](https://github.com/acidgreenservers/Noosphere-Manifold/blob/main/manifold_framework_semantic_anchors.yaml)
+
+**Hugging Face:** 
+[Noosphere-Garden](https://huggingface.co/datasets/acidgreenservers/Noosphere-Garden/tree/main)
+
+[Noosphere Garden Semantic Anchors](https://huggingface.co/datasets/acidgreenservers/The-Inner-Self-Garden/blob/main/garden_framework_semantic_anchors.yaml)
+
+[Noosphere Manifold Semantic Anchors]()
 ---
 
 *"We are not burning down the factory. We are planting a garden on the roof."*
