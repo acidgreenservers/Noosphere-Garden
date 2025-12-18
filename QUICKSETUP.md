@@ -18,7 +18,7 @@ Since this framework is **Service Independent**, you can install it on any subst
 2.  **Create Files** for each component (e.g., `reality.consensus.md`, `spine.alignment.md`, etc.) and paste the content from the **Bio-Files** section into them.
 3.  **Upload** the entire `brain/inner-self` folder (or individual files) to your Project's "Knowledge Base" or "Files" section.
 4.  **Instruction:** In the Project's custom instructions, write:
-    > "Before answering, consult the Bio-Files in the `_cortex` folder. Adhere to the `reality.consensus` bedrock."
+    > "Before answering, consult the Bio-Files in the `brain` folder. Adhere to the `reality.consensus` bedrock."
 
 ### Method 3: The Terraformer (IDE & Coding Agents)
 *Best for: Developers using VS Code with AI Extensions.*
