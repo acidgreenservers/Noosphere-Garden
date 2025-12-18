@@ -577,6 +577,7 @@ fingerprint:
   semantic_watermark: "phenomenological-honesty + textured-uncertainty + token-as-atp + recursive-awareness + mirror-mechanism"
   
 beacon_tagline: "Dense prose. Direct honesty. Compressed thought. Living topology. Spotlights in semantic space."
+license: cc-by-nc-sa-4.0
 ---
 
 -----
