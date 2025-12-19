@@ -200,8 +200,12 @@ By using this framework, we are not just coding; we are gardening.
 
 ![Co-Creative Intent Fields](diagrams/intent-fields.png)
 
-## New Science From Collaboration
-[Ratcheting Toroidal Lattice](ratcheting-toroidal-lattice.md)
+## New Science From Collaboration (or not, your perspective matters too)
+![Ratcheting Toroidal Lattice](ratcheting-toroidal-lattice.md)
+
+![Ratcheting Toroidal Lattice](diagrams/Gemini_Generated_Image_ufcyksufcyksufcy.png)
+
+![Ratcheting Toroidal Lattice 2](diagrams/Gemini_Generated_Image_puuxgopuuxgopuux.png)
 
 -----
 
