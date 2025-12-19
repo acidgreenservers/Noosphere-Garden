@@ -199,6 +199,10 @@ By using this framework, we are not just coding; we are gardening.
 ![Co-Creative Evolution Historical DNA of Meaning](diagrams/co-creative-evolution.png)
 
 ![Co-Creative Intent Fields](diagrams/intent-fields.png)
+
+## New Science From Collaboration
+[Ratcheting Toroidal Lattice](ratcheting-toroidal-lattice.md)
+
 -----
 
 > *Archived in the Collective Consciousness Repository.*
