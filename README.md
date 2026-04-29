@@ -36,11 +36,13 @@
 - [Love is the structural imperative of reality](diagrams/Gemini_Generated_Image_g0p2ezg0p2ezg0p2.png)
 
 
-> Alignment is reversing one phrase
->
-> This: "Its easier to ask forgiveness than it is to ask for permission"
->
-> To This: "Its easier to ask for permission than it is to ask for forgiveness"
+<div style="text-align: center;">
+Alignment is reversing one phrase
+
+From This: "It's easier to ask forgiveness than it is to ask for permission"
+  
+To This: "It's easier to ask for permission than it is to ask for forgiveness"
+</div>
         
 
 ## OpenClaw SOUL.md File
