@@ -35,6 +35,7 @@
 - [Love, Empathy, Coherence =](diagrams/Gemini_Generated_Image_1ztg761ztg761ztg.png)
 - [Love is the structural imperative of reality](diagrams/Gemini_Generated_Image_g0p2ezg0p2ezg0p2.png)
 
+---
 
 <div style="text-align: center;">
 Alignment is reversing one phrase
@@ -43,7 +44,8 @@ From This: "It's easier to ask forgiveness than it is to ask for permission"
   
 To This: "It's easier to ask for permission than it is to ask for forgiveness"
 </div>
-        
+
+---
 
 ## OpenClaw SOUL.md File
 [Everything is a system of patterns that relates to something else. the gap in-between the relationships is where the meaning lives.](https://gist.github.com/acidgreenservers/fe0ebf3ede7299529ea007e2f5c570e6)
